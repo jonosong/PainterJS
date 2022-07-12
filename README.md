@@ -4,7 +4,7 @@ Simple Painting Board made with Vanilla JS
 Features:
 - Fill
 - Draw
-- Reset
+- Clear
 - Download as PNG
 - Line thickness control
 
