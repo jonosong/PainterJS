@@ -8,4 +8,4 @@ Features:
 - Download as PNG
 - Line thickness control
 
-Visit here to view: https://jonosong.github.io/paintJS/
+Visit here to view: https://jonosong.github.io/PainterJS/
