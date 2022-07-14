@@ -9,7 +9,7 @@ Visit here to view: https://jonosong.github.io/PainterJS/
 * JavaScript
 * Canvas API
 
-## Features:
+## Features
 * Fill
 * Draw
 * Clear
