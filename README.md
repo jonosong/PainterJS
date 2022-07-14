@@ -1,4 +1,4 @@
-# paintJS
+# PainterJS
 
 Simple Painting Board made with Vanilla JS
 Visit here to view: https://jonosong.github.io/PainterJS/
