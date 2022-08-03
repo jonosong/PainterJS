@@ -7,6 +7,8 @@ Visit here to view: https://jonosong.github.io/PainterJS/
 ## Technologies
 
 * JavaScript
+* HTML
+* CSS
 * Canvas API
 
 ## Features
